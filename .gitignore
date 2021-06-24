@@ -1,0 +1,5 @@
+/.lldbinit
+/*.bin
+/kernel.elf
+/*.o
+/build.sh
